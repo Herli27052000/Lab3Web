@@ -271,7 +271,7 @@ Disini sedikit menambahkan CSS ***INTERNAL*** pada tampilan **form** di HTML sep
 
 ## PERTANYAAN DAN TUGAS!
 
-### 1). Buatlah form yang menampilkan ***dropdown*** menu dan ***listbpx*** dengan *multiple selection*.
+### 1). Buatlah form yang menampilkan ***dropdown*** menu dan ***listbox*** dengan *multiple selection*.
 
 **DROPDOWN**
 ini adalah contoh **DROPDOWN** menu seperti contoh gambar di bawah!
